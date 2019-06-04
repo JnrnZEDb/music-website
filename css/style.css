@@ -7538,12 +7538,12 @@ header {
       position: relative;
       padding-left: 62px; }
       header .colorlib-navbar-brand .colorlib-logo .logo-img {
-        width: 50px;
+        width: 54px;
         height: 50px;
         position: absolute;
         top: 0;
         left: 0;
-        border-radius: 50%; }
+        border-radius: 0; }
       header .colorlib-navbar-brand .colorlib-logo:hover {
         text-decoration: none !important; }
       header .colorlib-navbar-brand .colorlib-logo:active, header .colorlib-navbar-brand .colorlib-logo:focus {
