@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="57px" height="53px" viewBox="0 0 57 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>sm_logo</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" fill="#FFFFFF" fill-rule="nonzero">
-            <polygon id="Combined-Shape" points="56.6849672 0.31906588 56.6849672 49.9629855 54.1143105 49.9629855 54.1143105 5.01317751 38.739585 37.0058439 22.7780937 0.31906588 25.2938852 0.31906588 38.9644844 31.2112723 54.1143105 0.31906588"></polygon>
-            <polygon id="Line" points="3.9500447 39.7847124 20.2939335 0.301193559 26.0098662 14.3711818 23.4111599 14.3711818 20.2721043 6.93151084 7.71414627 37.2689892 35.5304483 37.2689892 40.8076132 49.9451132 0.0657211462 49.9451132 1.18470943 47.4293899 37.0352794 47.4293899 33.8527432 39.7847124"></polygon>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="65px" height="65px" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.41421;">
+    <g id="Group" transform="matrix(1,0,0,1,4,7.5)" fill="#FFFFFF" fill-rule="nonzero">
+        <g id="Combined-Shape" transform="matrix(1,0,0,1,2,0)">
+            <path d="M56.685,0.319L56.685,49.963L54.114,49.963L54.114,5.013L38.74,37.006L22.778,0.319L25.294,0.319L38.964,31.211L54.114,0.319L56.685,0.319Z" style="fill-rule:nonzero;stroke:white;stroke-width:2px;"/>
+        </g>
+        <g id="Line" transform="matrix(1,0,0,1,-3,0)">
+            <path d="M3.95,39.785L20.294,0.301L26.01,14.371L23.411,14.371L20.272,6.932L7.714,37.269L35.53,37.269L40.808,49.945L0.066,49.945L1.185,47.429L37.035,47.429L33.853,39.785L3.95,39.785Z" style="fill-rule:nonzero;stroke:white;stroke-width:2px;"/>
         </g>
     </g>
 </svg>
