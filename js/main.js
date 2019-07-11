@@ -30,6 +30,7 @@ $(document).ready(function($) {
 	};
 	loader();
 
+	/*
 	var carousel = function() {
 		$('.home-slider').owlCarousel({
 	    loop:true,
@@ -58,7 +59,7 @@ $(document).ready(function($) {
 	    }
 	   });
 	};
-	carousel();
+	carousel();*/
 
 	var fullHeight = function() {
 

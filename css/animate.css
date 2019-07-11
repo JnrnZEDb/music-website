@@ -1163,17 +1163,11 @@ Copyright (c) 2015 Daniel Eden
   from {
     opacity: 0;
     visibility: hidden;
-    -ms-transform: scale(0.95);
-    -webkit-transform: scale(0.95);
-    transform: scale(0.95);
   }
 
   to {
     opacity: 1;
     visibility: visible;
-    -ms-transform: scale(1.0);
-    -webkit-transform: scale(1.0);
-    transform: scale(1.0);
   }
 }
 
@@ -1181,17 +1175,11 @@ Copyright (c) 2015 Daniel Eden
   from {
     opacity: 0;
     visibility: hidden;
-    -ms-transform: scale(0.95);
-    -webkit-transform: scale(0.95);
-    transform: scale(0.95);
   }
 
   to {
     opacity: 1;
     visibility: visible;
-    -ms-transform: scale(1.0);
-    -webkit-transform: scale(1.0);
-    transform: scale(1.0);
   }
 }
 
@@ -1469,8 +1457,8 @@ Copyright (c) 2015 Daniel Eden
     visibility: hidden;
     /*-webkit-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);*/
-    -webkit-transform: translate3d(0, 20px, 0);
-    transform: translate3d(0, 20px, 0);
+   
+    
   }
 
   to {
